@@ -15,7 +15,7 @@
 ❔ As a frontend developer, I possess exceptional skills in crafting captivating user interfaces. <br />
 🔒 My passion lies in designing visually appealing, user-friendly, and functional web applications. I prioritize creating clean and well-structured code to ensure maximum compatibility and performance. <br />
 ⚡ Driven by motivation and disciplined work habits, I thrive both independently and as a team player. <br />
-⏳ I am dedicated to keeping up with the latest trends and technologies, particularly proficient in HTML, CSS, SCSS, JavaScript, and jQuery. My primary focus is on ReactJS and Next.js, where I continually strive for self-improvement. <br />
+⏳ I am dedicated to keeping up with the latest trends and technologies, particularly proficient in **HTML**, **CSS**, **SCSS**, **JavaScript**, and **jQuery**. My primary focus is on ReactJS and Next.js, where I continually strive for self-improvement. <br />
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleynayucesoy/)
 - E-mail: [aleyna.yucesoy@hotmail.com](mailto:aleyna.yucesoy@hotmail.com)
