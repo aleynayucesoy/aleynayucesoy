@@ -21,4 +21,4 @@ Skills: HTML /CSS /SCSS /JS /JQUERY /REACT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleynayucesoy//)  
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleynayucesoy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleynayucesoy&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
