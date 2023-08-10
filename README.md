@@ -17,8 +17,22 @@
 ⚡ Driven by motivation and disciplined work habits, I thrive both independently and as a team player.
 ⏳ I am dedicated to keeping up with the latest trends and technologies, particularly proficient in **HTML**, **CSS**, **SCSS**, **JavaScript**, and **jQuery**. My primary focus is on ReactJS and Next.js, where I continually strive for self-improvement.
 
-Skills: HTML /CSS /SCSS /JS /JQUERY /REACT
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleynayucesoy/)
+- E-mail: [aleyna.yucesoy@hotmail.com](aleyna.yucesoy@hotmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleynayucesoy//)  
+## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleynayucesoy&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg' alt='linkedin' height='40'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg' alt='linkedin' height='40'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg' alt='linkedin' height='40'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg' alt='linkedin' height='40'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg' alt='linkedin' height='40'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg' alt='linkedin' height='40'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg' alt='linkedin' height='40'>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleynayucesoy&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleynayucesoy&layout=donut-vertical" alt="flexbox" /> <img src="https://github-readme-stats.vercel.app/api?username=aleynayucesoy&show_icons=true&theme=buefy" alt="flexbox" /> 
+
