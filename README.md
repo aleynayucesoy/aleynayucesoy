@@ -23,15 +23,15 @@
 ## Skills
 
 <p align="left">
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg' alt='HTML' height='40'>
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg' alt='CSS' height='40'>
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg' alt='Sass' height='40'>
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg' alt='linkedin' height='40'> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg' alt='JavaScript' height='40'>
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg' alt='JQuery' height='40'>
-<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg' alt='React' height='40'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg' alt='HTML' height='40' style="max-width: 40px;height: auto;">
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg' alt='CSS' height='40' style="max-width: 40px;height: auto;">
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg' alt='Sass' height='40' style="max-width: 40px;height: auto;">
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg' alt='linkedin' height='40' style="max-width: 40px;height: auto;"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 40px;height: auto;"/>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg' alt='JavaScript' height='40 style="max-width: 40px;height: auto;"'>
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg' alt='JQuery' height='40' style="max-width: 40px;height: auto;">
+<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg' alt='React' height='40' style="max-width: 40px;height: auto;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="max-width: 40px;height: auto;"/>
 </p>
 
 ##
